@@ -19,4 +19,6 @@ In order for this script to work correctly, you will need to specify the hostnam
 
 ## Running the setup
 To run the script, run the following command:
-`ansible-playbook playbook.yml -i inventory.yml -u root`
+```
+ansible-playbook playbook.yml -i inventory.yml -u root
+```
